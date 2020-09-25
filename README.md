@@ -5,19 +5,19 @@ We created 4 different GUI windows to be able to visualise the data that is gath
 With this GUI you can visualise the output of the localization algorithm on a given map
 rosrun advoard_gui gui_localization_V2.py
 
-![](https://raw.githubusercontent.com/bekirbostanci/ros_advoard_gui/master/docs/gui_localization_V2.png)
+![](https://raw.githubusercontent.com/advoard/advoard_gui/master/docs/gui_localization_V2.png)
 ### Odom Gui 
 This GUI will let you visualise the odometry output
 rosrun advoard_gui gui_odom.py
 
-![](https://raw.githubusercontent.com/bekirbostanci/ros_advoard_gui/master/docs/gui_odom.png)
+![](https://raw.githubusercontent.com/advoard/advoard_gui/master/docs/gui_odom.png)
 ### Destination Gui
 This GUI will let you send a target position to the navigation stack so navigation algorithm will lead the robot to the designated location
 rosrun advoard_gui gui_goal.py
 
-![](https://raw.githubusercontent.com/bekirbostanci/ros_advoard_gui/master/docs/gui_goal.png)
+![](https://raw.githubusercontent.com/advoard/advoard_gui/master/docs/gui_goal.png)
 ### Map Gui
 This will print out the map with the current LiDAR measurements.
 rosrun advoard_gui gui_map.py
 
-![](https://raw.githubusercontent.com/bekirbostanci/ros_advoard_gui/master/docs/gui_map.png)
+![](https://raw.githubusercontent.com/advoard/advoard_gui/master/docs/gui_map.png)
